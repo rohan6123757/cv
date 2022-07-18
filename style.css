@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(206, 240, 245);
+}
+hr{
+    background-color: rgb(153, 234, 245);
+    border-style:dotted none none;
+    width: 5%;
+    border-color: gray;
+    border-width: 5px;
+}
+h1,h2{
+    color: #66BFBF;
+}
+img{
+    width: 150px;
+}
+.becon{
+    background-color: aqua;
+}
+img:hover{
+    background-color: gold;
+}
+.broccoli{
+    background-color: green;
+}
